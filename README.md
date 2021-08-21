@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonio-a7a.
+- 👋 Hi, I’m @antonio_a7a.
 - 👀 I’m interested in Python/Pandas.
 - 🌱 I’m currently learning Python and  Pandas.
 - 💞️ I’m looking to collaborate on Python.
